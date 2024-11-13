@@ -1,0 +1,4 @@
+This Local Pairwise Alignment Dynamic Programming Matrix was created by Nathaniel Gauvin.
+
+The "sequences" fields require you to input sequences in all caps, as this is the proper notation for amino acid sequences.
+The program will allow you to select scoring values 0-10 to allow for other methods of scoring dynamic programming matrices to be used.
